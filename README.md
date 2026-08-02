@@ -1,4 +1,4 @@
-\# EcoSync — Multithreaded Smart Grid Power Distribution Simulator
+\ EcoSync — Multithreaded Smart Grid Power Distribution Simulator
 
 
 
@@ -6,7 +6,7 @@ A Python simulation of a smart grid battery bank, demonstrating the classic boun
 
 
 
-\## Overview
+\ Overview
 
 
 
@@ -14,7 +14,7 @@ EcoSync models a shared battery bank (bounded buffer) where multiple producer th
 
 
 
-\## How it works
+\ How it works
 
 
 
@@ -26,7 +26,7 @@ EcoSync models a shared battery bank (bounded buffer) where multiple producer th
 
 
 
-\## Tech Stack
+\ Tech Stack
 
 
 
@@ -38,7 +38,7 @@ EcoSync models a shared battery bank (bounded buffer) where multiple producer th
 
 
 
-\## Running it
+\ Running it
 
 
 
@@ -54,7 +54,7 @@ The simulation prints real-time buffer activity to the console, including produc
 
 
 
-\## Notes
+\ Notes
 
 
 
